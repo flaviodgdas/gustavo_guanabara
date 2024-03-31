@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1711480646,
+	"version": 1711924284,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,9 @@
 		"images/cano-sheet0.png",
 		"images/teleport-sheet0.png",
 		"images/bot_pular-sheet0.png",
+		"images/bot_direita-sheet0.png",
+		"images/bot_esquerda-sheet0.png",
+		"images/camera-sheet0.png",
 		"media/gritoz.m4a",
 		"media/gritoz.ogg",
 		"media/pulo2.m4a",
@@ -39,6 +42,10 @@
 		"media/pato.m4a",
 		"media/madeira3.m4a",
 		"media/game.ogg",
+		"media/parabens.m4a",
+		"media/parabens.ogg",
+		"media/ch1.m4a",
+		"media/ch1.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
